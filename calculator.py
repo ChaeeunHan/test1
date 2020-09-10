@@ -1,5 +1,6 @@
 class calculator:
     def add(self, a, b):
+<<<<<<< HEAD
         print('a + b =', a+b)
 
     def subtract(self, a, b):
@@ -7,3 +8,6 @@ class calculator:
 
 def main():
     print('main')
+=======
+        print('a + b =', a+b)
+>>>>>>> develop
