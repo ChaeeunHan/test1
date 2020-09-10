@@ -11,6 +11,7 @@ class calculator:
 
 def main():
     print('main')
+    print('2')
 =======
         print('a + b =', a+b)
 >>>>>>> develop
